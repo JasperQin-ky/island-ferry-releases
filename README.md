@@ -1,2 +1,3 @@
-# island-ferry-releases
-The release feed of Island Ferry
+# Island Ferry
+
+> Make your MacBook’s notch more fashionable

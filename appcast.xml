@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>IslandFerry</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 28 May 2026 23:08:16 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v1.0.0.dmg" length="5998361" type="application/octet-stream" sparkle:edSignature="UFZt2W0ys2hicfu4IgpTIHHZn3zjA5Ec1x8zmmwZApDgGbeCNHtzx33UNXatj3QHC/idUenRACbwIRrPsQhXBg=="/>
+        </item>
+    </channel>
+</rss>

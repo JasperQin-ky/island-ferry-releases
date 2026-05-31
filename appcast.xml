@@ -14,7 +14,7 @@
             <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/en.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/zh-Hans.html</sparkle:releaseNotesLink>
             <enclosure 
-                url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v1.1.0.dmg" 
+                url="https://github.com/JasperQin-ky/island-ferry-releases/releases/download/v1.1.0/IslandFerry-v1.1.0.dmg" 
                 length="6012631" 
                 type="application/octet-stream" 
                 sparkle:edSignature="X3DKLd4cAezmxSpW/JNN2UnTwi56bGuc+4MF3CPDvYaFuiXphfqfHIfdjwBrXDy4veTh88jTxJuyv0SPZgZLBw=="/>
@@ -29,7 +29,7 @@
             <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/en.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/zh-Hans.html</sparkle:releaseNotesLink>
             <enclosure 
-                url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v1.0.0.dmg" 
+                url="https://github.com/JasperQin-ky/island-ferry-releases/releases/download/v1.0.0/IslandFerry-v1.0.0.dmg" 
                 length="5998361" 
                 type="application/octet-stream" 
                 sparkle:edSignature="UFZt2W0ys2hicfu4IgpTIHHZn3zjA5Ec1x8zmmwZApDgGbeCNHtzx33UNXatj3QHC/idUenRACbwIRrPsQhXBg=="/>

@@ -6,19 +6,26 @@
         <language>en</language>
 
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 31 May 2026 23:37:50 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/en.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/zh-Hans.html</sparkle:releaseNotesLink>
+            <enclosure 
+                url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v1.1.0.dmg" 
+                length="6012631" 
+                type="application/octet-stream" 
+                sparkle:edSignature="X3DKLd4cAezmxSpW/JNN2UnTwi56bGuc+4MF3CPDvYaFuiXphfqfHIfdjwBrXDy4veTh88jTxJuyv0SPZgZLBw=="/>
+        </item>
+
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 28 May 2026 23:08:16 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>Fixes</h3>
-                <ul>
-                    <li>Improved update reliability so new versions install correctly</li>
-                    <li>Fixed a crash that could occur after waking your Mac from sleep</li>
-                    <li>Fixed usage display occasionally getting stuck</li>
-                </ul>
-            ]]></description>
             <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/en.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/zh-Hans.html</sparkle:releaseNotesLink>
             <enclosure 

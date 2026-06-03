@@ -6,33 +6,18 @@
         <language>en</language>
 
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 31 May 2026 23:37:50 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/en.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.1.0/zh-Hans.html</sparkle:releaseNotesLink>
-            <enclosure 
-                url="https://github.com/JasperQin-ky/island-ferry-releases/releases/download/v1.1.0/IslandFerry-v1.1.0.dmg" 
-                length="6012631" 
-                type="application/octet-stream" 
-                sparkle:edSignature="X3DKLd4cAezmxSpW/JNN2UnTwi56bGuc+4MF3CPDvYaFuiXphfqfHIfdjwBrXDy4veTh88jTxJuyv0SPZgZLBw=="/>
-        </item>
-
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 28 May 2026 23:08:16 +0800</pubDate>
+            <title>0.1.0</title>
+            <pubDate>Wed, 03 Jun 2026 17:30:53 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/en.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v1.0.0/zh-Hans.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v0.1.0/en.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v0.1.0/zh-Hans.html</sparkle:releaseNotesLink>
             <enclosure 
-                url="https://github.com/JasperQin-ky/island-ferry-releases/releases/download/v1.0.0/IslandFerry-v1.0.0.dmg" 
-                length="5998361" 
+                url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v0.1.0.dmg" 
+                length="6012883" 
                 type="application/octet-stream" 
-                sparkle:edSignature="UFZt2W0ys2hicfu4IgpTIHHZn3zjA5Ec1x8zmmwZApDgGbeCNHtzx33UNXatj3QHC/idUenRACbwIRrPsQhXBg=="/>
+                sparkle:edSignature="BLQM8LbHn4pPnF4dr8u+bIv4Swk5gljfZLjeIicYNexOgq5nBVNrj1hhrP8DQs7vUOYFaSG7rTWKzXhiQCqBCQ=="/>
         </item>
     </channel>
 </rss>

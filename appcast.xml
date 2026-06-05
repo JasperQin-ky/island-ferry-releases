@@ -7,7 +7,7 @@
 
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 03 Jun 2026 17:30:53 +0800</pubDate>
+            <pubDate>Fri, 05 Jun 2026 18:41:56 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -15,9 +15,9 @@
             <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v0.1.0/zh-Hans.html</sparkle:releaseNotesLink>
             <enclosure 
                 url="https://JasperQin-ky.github.io/island-ferry-releases/IslandFerry-v0.1.0.dmg" 
-                length="6012883" 
+                length="6099607" 
                 type="application/octet-stream" 
-                sparkle:edSignature="BLQM8LbHn4pPnF4dr8u+bIv4Swk5gljfZLjeIicYNexOgq5nBVNrj1hhrP8DQs7vUOYFaSG7rTWKzXhiQCqBCQ=="/>
+                sparkle:edSignature="b9x40CzAxRax6cbCp2/MIAftOha+re8W52LskG511Lt/Ksdw8lOIRw2t/mQyddUY9BGFqbL3QOIWXDgB1NrqCw=="/>
         </item>
     </channel>
 </rss>

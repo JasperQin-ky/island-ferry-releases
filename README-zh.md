@@ -56,7 +56,7 @@ IslandFerry 正是为这种高频、碎片化、跨应用的工作流而设计�
 
 ### 方式一：手动下载安装
 
-<a href="https://github.com/JasperQin-ky/island-ferry-releases/releases/latest/download/IslandFerry-v0.1.0.dmg" target="_self"><img width="200" src="https://github.com/user-attachments/assets/e3179be1-8416-4b8a-b417-743e1ecc67d6" alt="Download for macOS" /></a>
+<a href="https://github.com/JasperQin-ky/island-ferry-releases/releases/latest/download/IslandFerry-v0.2.0.dmg" target="_self"><img width="200" src="https://github.com/user-attachments/assets/e3179be1-8416-4b8a-b417-743e1ecc67d6" alt="Download for macOS" /></a>
 
 下载完成后，打开 `.dmg`，然后将 **IslandFerry** 拖到 `/Applications` 文件夹中。
 

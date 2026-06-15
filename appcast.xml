@@ -6,6 +6,21 @@
         <language>en</language>
 
         <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 16 Jun 2026 03:22:20 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="en">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v0.4.1/en.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="zh-Hans">https://JasperQin-ky.github.io/island-ferry-releases/releases-notes/v0.4.1/zh-Hans.html</sparkle:releaseNotesLink>
+            <enclosure 
+                url="https://github.com/JasperQin-ky/island-ferry-releases/releases/download/v0.4.1/IslandFerry-v0.4.1.dmg" 
+                length="6296163"  
+                type="application/octet-stream" 
+                sparkle:edSignature="mlB68NlumtdtsufuJRDcPtdSuKg9lG3zIDwQkKffd5GfjFrj0xLezISAmwtjUOE7bdOqvDw7+3y8jcL7U3qSAg=="/>
+        </item>
+
+        <item>
             <title>0.4.0</title>
             <pubDate>Sun, 14 Jun 2026 20:41:15 +0800</pubDate>
             <sparkle:version>4</sparkle:version>
